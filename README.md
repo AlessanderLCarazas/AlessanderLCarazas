@@ -58,15 +58,4 @@
 
 ---
 
-### 📊 **Estadísticas de GitHub**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlessanderLCarazas&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessanderLCarazas&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">✨ _¡Gracias por visitar mi perfil!_ ✨</p>
