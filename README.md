@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Alessander Carazas 👋</h1>
 <p align="center">
-  <b>Estudiante de Ciencia de la Computación en la UNSA</b><br />
+  <b>Estudiante de Ciencia de la Computación en la Universidad Nacional de San Agustin de Arequipa</b><br />
   Apasionado por la creación de soluciones innovadoras en automatización, desarrollo web, computación gráfica, inteligencia artificial y videojuegos.
 </p>
 
